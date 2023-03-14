@@ -1,0 +1,65 @@
+template: "online-cv"
+skin: "orange"
+
+
+basic_info:
+  # Profile information
+  first_name: Sierra
+  last_name: Evans
+  motto: Its not a deadend, Its a plot twist 
+
+  summary: |
+   I am looking for a fresh start. I went to school for dental hygiene and graduated. I discoved it wasnt for me and decided to look for a new path when i discovered 4Geeks.
+
+  # Sidebar links
+  email: evans.m.sierra99@gmail.com
+  phone: 570-535-0000
+  github: sierra71999
+
+  languages:
+
+    - idiom: English
+      level: Native
+
+  interests:
+    - item: books and comics
+    - item: music(listening)
+    - item: 
+
+education:
+  - degree: Dental hygiene Degree
+    university: fortis
+    time: 2019 - 2022
+
+
+        
+        
+projects:
+  intro: >
+   
+  assignments:
+    - title: Instagram Photo Feed Boostrap
+      link: "https://github.com/Sierra71999/Instagram-post"
+      tagline: "This is an improved version of the first instagram exercise using bootstrap"
+
+    - title: Starwars reading list
+      link: "https://github.com/Sierra71999/Starwars-blog-reading-list"
+      tagline: "data modeling a starwars blog"
+
+    - title: Traffic Light
+      link: "https://github.com/Sierra71999/Traffic-Light-React-Hooks"
+      tagline: "Practice conditions, render a profile card based on a series of variables that could change in value during runtime like: username, avatar, etc"
+
+
+
+skills:
+  toolset:
+    
+    - name: Javascript
+      level: 50%
+
+    - name: HTML5 & CSS
+      level: 65%
+
+   
+    
